@@ -1,0 +1,2 @@
+# ecompany
+Emacs ecompany package
